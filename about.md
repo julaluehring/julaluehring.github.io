@@ -16,4 +16,3 @@ Currently, I am learning *a lot* about machine learning and working efficiently 
 Hit me up if you are interested in collaboration, have a question, or just want to chat about research, social media, or R vs Python!!
 
 <img src="assets/images/JL-bw.jpeg" alt="Picture of Jula Luehring" style="float: right; width: 60%; min-width: 200px; padding: 0% 4% 2% 0%;" />
-
