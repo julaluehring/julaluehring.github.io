@@ -11,13 +11,15 @@
           </svg>
           <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">luejula</a>
         </p>
+        </div> <!-- End of first footer-col -->
+      <div class="footer-col"> <!-- New col with bluesky -->
         <p class="social-links">
           <svg class="svg-icon grey">
             <use xlink:href="{{ 'assets/minima-social-icons.svg#bluesky' | relative_url }}"></use>
           </svg>
           <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">julaluehring.bsky.social</a>
         </p>
-      </div> <!-- End of first footer-col -->
+      </div> <!-- End of bluesky footer-col -->
       <div class="footer-col"> <!-- New col with email -->
         <p>{{ site.description | escape }}</p>
       </div>
