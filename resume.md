@@ -17,13 +17,13 @@ Thesis: “Citizen-Driven Disinformation Campaigns: The Disruptive Interplay of 
 Thesis: “Provoking, revising, denying - Calculated ambivalence used as strategy for right-wing populist communication in Germany’s Bundestag election battle 2017” supervised by Prof. Dr. Ingo Warnke (Distinction, graded 1,0)
 
 ## Research Experience
-**2022–** Junior Fellow, Complexity Science Hub
-**2021–22** Research Assistant, CSH, (Supervisor: Dr. Hannah Metzler)
+**2022–** Junior Fellow, Complexity Science Hub<br>
+**2021–22** Research Assistant, CSH, (Supervisor: Dr. Hannah Metzler)<br>
 **2020–21** Student Assistant, ASCoR, (Supervisor: Prof. Dr. Judith Möller)
 
 ## Teaching Experience
 ### University of Vienna
-**2024** Guest lecturer, Misinformation in den Sozialen Medien [Slides](https://julaluehring.github.io/misinformation-in-den-sozialen-medien/#/title-slide) (CODE VO SOME B)
+**2024** Guest lecturer, Misinformation in den Sozialen Medien (CODE VO SOME B, [Slides](https://julaluehring.github.io/misinformation-in-den-sozialen-medien/#/title-slide))
 
 ## Academic Advising
 ### Undergraduate
@@ -31,11 +31,11 @@ Thesis: “Provoking, revising, denying - Calculated ambivalence used as strateg
 
 ## Academic Service
 ### Journal Reviewer
-**2024** The International Journal of Press/Politics
+**2024** The International Journal of Press/Politics<br>
 **2023** Social Media + Society
 
 ## Outside of Academia
-**2020–21** Elected board member, JEF Deutschland, Berlin
-**2019** Communications manager, Talking Europe, Berlin
+**2020–21** Elected board member, JEF Deutschland, Berlin<br>
+**2019** Communications manager, Talking Europe, Berlin<br>
 **2018** Project manager of a theater festival, Theater Bremen, Bremen
 
