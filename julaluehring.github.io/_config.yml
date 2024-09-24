@@ -35,8 +35,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.md
-  - cv.md
+  - about.markdown
+  - cv.markdown
 
 minima:
   # Minima skin selection.
