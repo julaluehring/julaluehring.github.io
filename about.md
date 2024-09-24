@@ -15,4 +15,4 @@ Currently, I am learning **a lot** about machine learning and working efficientl
 
 Hit me up if you are interested in collaboration, have a question, or just want to chat about research, social media, or R vs Python!!
 
-<img src="assets/images/JL-bw.jpeg" alt="Picture of Jula Luehring" align="right" width="60%" min-width="500px" style="padding: 0% 4% 2% 0%; min-width: "/> 
+<img src="assets/images/JL-bw.jpeg" alt="Picture of Jula Luehring" style="float: right; width: 60%; min-width: 500px; padding: 0% 4% 2% 0%;">
