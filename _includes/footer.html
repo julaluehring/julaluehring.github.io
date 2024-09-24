@@ -5,31 +5,21 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-            <svg class="svg-icon blue">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#twitter' | relative_url }}"></use>
-            </svg><span>luejula</span>
-          </a>
+        <p class="social-links">
+          <svg class="svg-icon grey">
+            <use xlink:href="{{ 'assets/minima-social-icons.svg#twitter' | relative_url }}"></use>
+          </svg>
+          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">luejula</a>
         </p>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
-      </div>
+        <p class="social-links">
+          <svg class="svg-icon grey">
+            <use xlink:href="{{ 'assets/minima-social-icons.svg#bluesky' | relative_url }}"></use>
+          </svg>
+          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">julaluehring.bsky.social</a>
+        </p>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
-    </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
     </div>
 
   </div>
