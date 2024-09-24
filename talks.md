@@ -4,7 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
-Here's an overview of presentations I gave at conferences and workshops. Follow the links to find more information about the events and the talks.
+Here's an overview of presentations I gave at conferences and workshops. 
+Follow the links to access the slides and additional material.
 
 Lühring, J. (2024, July). Emotional misinformation diffusion: Mapping socio-affective dynamics in the digital information ecosystem. *Invited talk at the Emotional Speech Workshop (Ruhr-Universität Bochum, Germany).* [Slides](https://julaluehring.github.io/emotional-speech-workshop/#/title-slide).
 

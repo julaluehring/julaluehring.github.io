@@ -11,8 +11,8 @@ Generally, I use a combination of methods to approach this problem, but I am esp
 I am a social scientist by training and I am particularly interested in the intersection of social science and computer science.
 My educational background is (political) communication science and polito-linguistics. I received my M.Sc. in Communication Science from the University of Amsterdam and my B.A. in German Language from the University of Bremen (with German studies as a major and Communication Science as a minor). Initially, I was interested in qualitative research and content analysis. However, during my Masters at ASCoR, I felt like there are some phenomena that should be studied *in the wild*. For instance, to study social behavior online, we can use social media as a data source.
 
-Currently, I am learning **a lot** about machine learning and working efficiently with huge amounts of data. I am trying to decide if I am a Python or R person, but I am not there yet. I am always curious to see what other disciplines are up to. I am also passionate about open science and I always looking for ways to make my research more transparent and reproducible. 
+Currently, I am learning *a lot* about machine learning and working efficiently with huge amounts of data. I am trying to decide if I am a Python or R person, but I am not there yet. I am always curious to see what other disciplines are up to. I am also passionate about open science and I always looking for ways to make my research more transparent and reproducible. 
 
 Hit me up if you are interested in collaboration, have a question, or just want to chat about research, social media, or R vs Python!!
 
-<img src="assets/images/JL-bw.jpeg" alt="Picture of Jula Luehring" style="float: right; width: 60%; min-width: 500px; padding: 0% 4% 2% 0%;">
+<img src="assets/images/JL-bw.jpeg" alt="Picture of Jula Luehring" style="float: right; width: 60%; min-width: 200px; padding: 0% 4% 2% 0%;">
