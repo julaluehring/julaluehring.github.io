@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-Hi!
+I'm a pre-doctoral researcher based in Vienna.
