@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hi!
+title: Jula Lühring
 email: jula.luehring[@]univie.ac.at
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -34,20 +34,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  - about.md
-  - cv.md
-
-minima:
-  # Minima skin selection.
-  # Available skins are:
-  # classic	           Default, light color scheme.
-  # dark	             Dark variant of the classic skin.
-  # auto	             Adaptive skin based on the default classic and dark skins.
-  # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
-  # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
