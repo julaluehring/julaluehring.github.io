@@ -1,6 +1,11 @@
-// Placeholder to allow overriding predefined variables smoothly.
-
+// Colors
 $link-base-color: #8A2BE2;
 $link-hover-color: #8A2BE2;
 $link-visited-color: #8A2BE2;
 $link-base-color: #8A2BE2;
+
+// Base font settings
+$base-font-family: "Source Code Pro", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Helvetica, Arial, sans-serif !default;
+
+// Code font settings
+$code-font-family: "Source Code Pro", "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
