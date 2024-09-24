@@ -5,8 +5,7 @@
 layout: home
 ---
 
-## Hi!
-I am a pre-doctoral researcher based in Vienna.
+Hi! I am a pre-doctoral researcher based in Vienna.
 My research interests are in the field of computational social science, with a focus on natural language processing and social media data analysis.
 I am currently working on projects related to misinformation, inter-group hostility, and polarization.
 

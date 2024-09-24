@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Jula. I work as a PhD student in the [Computational Communication Science Lab](https://compcommlab.univie.ac.at/) at the University of Vienna, but I am also affiliated with the [Complexity Science Hub](https://csh.ac.at/) as a Junior Fellow.
+My name is Jula. I work as a PhD student in the [Computational Communication Science Lab](https://compcommlab.univie.ac.at/) at the University of Vienna, but I am also affiliated with the [Complexity Science Hub](https://csh.ac.at/) as a Junior Fellow.
 Overall, I wonder how groups of people belonging to the same society can have diverging understandings of reality and particularly, why. 
 Generally, I use a combination of methods to approach this problem, but I am especially interested in using social media as a data source to study human behavior. For my current project, I am studying the spread of misinformation on social media and the impact of emotions on this phenomenon (read more about the project in the [research section](/research/)).
 
@@ -15,4 +15,4 @@ Currently, I am learning *a lot* about machine learning and working efficiently 
 
 Hit me up if you are interested in collaboration, have a question, or just want to chat about research, social media, or R vs Python!!
 
-<img src="assets/images/JL-bw.jpeg" alt="Picture of Jula Luehring" style="float: right; width: 60%; min-width: 200px; padding: 0% 4% 2% 0%;">
+<img src="assets/images/JL-bw.jpeg" alt="Picture of Jula Luehring" style="float: right; width: 60%; min-width: 200px; padding: 0% 4% 2% 0%;"/>
