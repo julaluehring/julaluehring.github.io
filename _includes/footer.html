@@ -4,7 +4,7 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col">
+      <div class="footer-col"> <!-- Start of first footer-col with social media stuff -->
         <p class="social-links">
           <svg class="svg-icon grey">
             <use xlink:href="{{ 'assets/minima-social-icons.svg#twitter' | relative_url }}"></use>
@@ -17,7 +17,8 @@
           </svg>
           <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">julaluehring.bsky.social</a>
         </p>
-      <div class="footer-col">
+      </div> <!-- End of first footer-col -->
+      <div class="footer-col"> <!-- New col with email -->
         <p>{{ site.description | escape }}</p>
       </div>
     </div>

@@ -4,6 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
+[Download the PDF](https://github.com/julaluehring/julaluehring.github.io/blob/main/assets/files/CV_JL.pdf)
+
 ## Education
 **2022–25** Ph.D., Communication Science, University of Vienna
 Emotional Misinformation (EMOMIS) is a joint project of the Computational Communication Science Lab (Annie Waldherr, Jula Lühring) and the Complexity Science Hub (Hannah Metzler, David Garcia, Apeksha Shetty), funded by the WWTF Vienna.
@@ -37,4 +39,3 @@ Thesis: “Provoking, revising, denying - Calculated ambivalence used as strateg
 **2019** Communications manager, Talking Europe, Berlin
 **2018** Project manager of a theater festival, Theater Bremen, Bremen
 
-[Download the PDF](https://github.com/julaluehring/julaluehring.github.io/blob/main/assets/files/CV_JL.pdf)
