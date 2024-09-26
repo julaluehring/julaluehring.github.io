@@ -7,7 +7,7 @@ permalink: /resume/
 [Download the PDF](https://github.com/julaluehring/julaluehring.github.io/blob/main/assets/files/CV_JL.pdf)
 
 ## Education
-**2022–25** Ph.D., Communication Science, University of Vienna
+**2022–** Ph.D., Communication Science, University of Vienna
 Emotional Misinformation (EMOMIS) is a joint project of the Computational Communication Science Lab (Annie Waldherr, Jula Lühring) and the Complexity Science Hub (Hannah Metzler, David Garcia, Apeksha Shetty), funded by the WWTF Vienna.
 
 **2029-22** M.Sc. (research), Communication Science, University of Amsterdam

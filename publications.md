@@ -14,7 +14,7 @@ Here's an overview of my publications and working papers. Follow the links to fi
 
 **Lühring†, J**., Shetty†, A., Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2023). Emotions in misinformation studies: Distin- guishing affective state from emotional response and misinformation recognition from acceptance. [https://psyarxiv.com/udqms/](https://psyarxiv.com/udqms/)
 
-
+† equal contribution
 
 ## Peer-reviewed articles
 
