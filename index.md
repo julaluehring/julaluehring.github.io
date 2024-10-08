@@ -15,5 +15,3 @@ Here is a video that gives a 3-minute introduction to my research:
 
 <br>
 
-## Upcoming talks
-Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage. 07.10.2024, 18:30 in der VHS Urania (Anmeldung und mehr Informationen [hier](https://www.vhs.at/de/k/287686761))
