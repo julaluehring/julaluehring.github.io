@@ -18,6 +18,7 @@ Thesis: “Provoking, revising, denying - Calculated ambivalence used as strateg
 
 ## Research Experience
 **2022–** Junior Fellow, Complexity Science Hub<br>
+**04-06 2025** Research visit at UT Austin, hosted by Josephine Lukito
 **2021–22** Research Assistant, CSH, (Supervisor: Dr. Hannah Metzler)<br>
 **2020–21** Student Assistant, ASCoR, (Supervisor: Prof. Dr. Judith Möller)
 
@@ -28,6 +29,8 @@ Thesis: “Provoking, revising, denying - Calculated ambivalence used as strateg
 ## Academic Advising
 ### Undergraduate
 **2023** Nele Hapig, University of Konstanz, Master’s thesis
+**2023** Adam Urosevic, CSH internship
+**2022** Ruggero Lazzaroni, CSH summer internship
 
 ## Academic Service
 ### Journal Reviewer
@@ -37,5 +40,5 @@ Thesis: “Provoking, revising, denying - Calculated ambivalence used as strateg
 ## Outside of Academia
 **2020–21** Elected board member, JEF Deutschland, Berlin<br>
 **2019** Communications manager, Talking Europe, Berlin<br>
-**2018** Project manager of a theater festival, Theater Bremen, Bremen
+**2018** Project manager of a youth theater festival, Theater Bremen, Bremen
 
