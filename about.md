@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/images/JL-bw.jpeg" alt="Picture of Jula Luehring" style="float: right; width: 60%; min-width: 200px; padding: 0% 4% 2% 0%;" />
+<img src="/assets/images/JL-bw.jpeg" alt="Picture of Jula Luehring" style="float: right; width: 40%; min-width: 150px; padding: 1% 2% 5% 5%;" />
 
 I work as a pre-doctoral researcher in the [Computational Communication Science Lab](https://compcommlab.univie.ac.at/) at the University of Vienna and the [Complexity Science Hub](https://csh.ac.at/) in Vienna.
 My research focuses on understanding how groups of people belonging to the same society develop diverging realities and how these realities are shaped by psychological and technological dynamics (read more about the projects in the [research section](/projects/)).

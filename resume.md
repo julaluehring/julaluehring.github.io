@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-[Download the PDF](https://github.com/julaluehring/julaluehring.github.io/blob/main/assets/files/CV_JL.pdf)
+[Download the PDF](https://github.com/julaluehring/CV-JL/blob/main/main.pdf)
 
 ## Education
 **2022–** Ph.D., Communication Science, University of Vienna
