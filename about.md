@@ -8,6 +8,10 @@ I am a Senior Researcher for Computational Social Science in the [Digital Societ
 Before, I worked as a pre-doctoral researcher in the [Computational Communication Science Lab](https://compcommlab.univie.ac.at/) at the University of Vienna and as Junior Fellow at the [Complexity Science Hub](https://csh.ac.at/) in Vienna.
 My research focuses on understanding the prevalence and harms of misinformation on social media, alongside the socio-affective, technological, and systemic dysfunctions in information environments. 
 
+<div class="about-video" aria-label="Video introduction to my pre-doctoral research">
+	<iframe src="https://www.youtube.com/embed/8uoJVLcbHJU?si=8IK2lsY00QpPMQTd" title="3-minute introduction to my pre-doctoral research" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 While I am a social scientist at heart, I combine a variety of methods to approach this problem. 
 I enjoy interdisciplinary settings, collaborating with and learning from computer scientists and physicists in my team.
 I am particularly interested in how we can reliably use computational and complex methods to study social phenomena, often analyzing large-scale social media data to study such phenomena *in the wild*.
@@ -18,8 +22,4 @@ My educational background is (political) communication science and polito-lingui
 During my doctoral education at the Universtiy of Vienna, I have learned *a lot* about different text-as-data approaches, working efficiently and transparently with massive datasets remotely, and recently, how to integrate AI agents into these processes.
 Hit me up if you are interested in collaboration, have a stupid question (which don't exist, in my opinion), or just want to chat about workflows, academia, or social media data!
 
-Here is a video that gives a 3-minute introduction to my pre-doctoral research:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8uoJVLcbHJU?si=8IK2lsY00QpPMQTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<br>
+<div class="about-video-clear"></div>

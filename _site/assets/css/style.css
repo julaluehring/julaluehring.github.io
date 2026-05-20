@@ -126,7 +126,7 @@ html { font-size: 16px; }
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
-body { font: 400 16px/1.5 -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; color: var(--minima-text-color); background-color: var(--minima-background-color); -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; overflow-wrap: break-word; }
+body { font: 400 16px/1.5 "Source Code Pro", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Helvetica, Arial, sans-serif; color: var(--minima-text-color); background-color: var(--minima-background-color); -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; overflow-wrap: break-word; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
@@ -288,6 +288,16 @@ table td { border: 1px solid var(--minima-table-border-color); }
 
 /** Grid helpers */
 @media screen and (min-width: 800px) { .one-half { width: calc(50% - (30px / 2)); } }
+.site-title { font-weight: 700; }
+
+h1, h2, h3 { font-weight: 700; }
+
+.about-video { float: right; width: min(48%, 420px); margin: 0 0 1rem 1.5rem; }
+
+.about-video iframe { display: block; width: 100%; aspect-ratio: 16 / 9; height: auto; border: 0; border-radius: 8px; }
+
+.about-video-clear { clear: both; }
+
 .site-nav .trigger { display: flex; align-items: center; gap: 0.5rem; }
 
 .site-nav .theme-toggle { border: 1px solid var(--minima-border-color-01); background: var(--minima-background-color); color: var(--minima-text-color); border-radius: 999px; font-size: 0.8rem; line-height: 1; padding: 0.35rem 0.7rem; margin-left: 0.2rem; margin-right: 0.2rem; cursor: pointer; transition: background-color 120ms ease, color 120ms ease, border-color 120ms ease; }
@@ -298,4 +308,5 @@ html[data-theme="light"] { --minima-brand-color: #828282; --minima-brand-color-l
 
 html[data-theme="dark"] { --minima-brand-color: #999999; --minima-brand-color-light: #a6a6a6; --minima-brand-color-dark: #404040; --minima-site-title-color: #a6a6a6; --minima-text-color: #bbbbbb; --minima-background-color: #181818; --minima-code-background-color: #212121; --minima-link-base-color: #79b8ff; --minima-link-visited-color: #79b8ff; --minima-link-hover-color: #ffffff; --minima-border-color-01: #4d4d4d; --minima-border-color-02: #626262; --minima-border-color-03: #b3b3b3; --minima-table-text-color: #e6e6e6; --minima-table-zebra-color: #2f2f2f; --minima-table-header-bg-color: #343434; --minima-table-header-border: #4a4a4a; --minima-table-border-color: #4d4d4d; }
 
-@media screen and (max-width: 600px) { .site-nav .theme-toggle { display: block; margin: 0.5rem 0 0.25rem; } }
+@media screen and (max-width: 600px) { .about-video { float: none; width: 100%; max-width: 560px; margin: 0 0 1rem; }
+  .site-nav .theme-toggle { display: block; margin: 0.5rem 0 0.25rem; } }
