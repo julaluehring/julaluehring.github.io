@@ -2,12 +2,15 @@
 layout: page
 title: Resume
 permalink: /resume/
+published: false
 ---
 
 [Download the PDF](https://github.com/julaluehring/CV-JL/blob/main/main.pdf)
 
 ## Education
-**2022–** Ph.D., Communication Science, University of Vienna
+**2026-** Senior researcher, GESIS -- Leibniz Institute for the Social Sciences
+
+**2022–2026** Ph.D., Communication Science, University of Vienna
 Emotional Misinformation (EMOMIS) is a joint project of the Computational Communication Science Lab (Annie Waldherr, Jula Lühring) and the Complexity Science Hub (Hannah Metzler, David Garcia, Apeksha Shetty), funded by the WWTF Vienna.
 
 **2029-22** M.Sc. (research), Communication Science, University of Amsterdam
@@ -24,12 +27,18 @@ Thesis: “Provoking, revising, denying - Calculated ambivalence used as strateg
 
 ## Teaching Experience
 ### University of Vienna
+
 **2024** Guest lecturer, Misinformation in den Sozialen Medien (CODE VO SOME B, [Slides](https://julaluehring.github.io/misinformation-in-den-sozialen-medien/#/title-slide))
+
+
 
 ## Academic Advising
 ### Undergraduate
+
 **2023** Nele Hapig, University of Konstanz, Master’s thesis
+
 **2023** Adam Urosevic, CSH internship
+
 **2022** Ruggero Lazzaroni, CSH summer internship
 
 ## Academic Service

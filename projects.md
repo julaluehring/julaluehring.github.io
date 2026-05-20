@@ -2,9 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
+published: false
 ---
 
-My research interests focus on the complex interplay between social and emotional dynamics, algorithimic biases, and anti-democratic behavior on social media platforms. I am particularly interested in the role of emotions in the spread of misinformation, and how these dynamics can be leveraged to design interventions to mitigate the spread of harmful content. 
+My research interests focus on the complex interplay between social and emotional dynamics, algorithmic biases, and anti-democratic behavior on social media platforms. I am particularly interested in the role of emotions in the spread of misinformation, and how these dynamics can be leveraged to design interventions to mitigate the spread of harmful content. 
 
 In my research, I use a combination of computational methods, including machine learning and modeling, to analyze large-scale social media data. I am also interested in practical implications of using these methods, and how we can ensure that our research is conducted in a reproducible -- or at least transparent -- manner.
 

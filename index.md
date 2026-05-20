@@ -5,12 +5,20 @@
 layout: home
 ---
 
-Hi! I am a pre-doctoral researcher based in Vienna.
-My research interests are in the field of computational social science, with a focus on natural language processing and social media data analysis.
-I am currently working on projects related to misinformation, inter-group hostility, and polarization.
 
-Here is a video that gives a 3-minute introduction to my research:
+<img src="/assets/images/JL-bw.jpeg" alt="Picture of Jula Luehring" style="float: right; width: 30%; min-width: 150px; padding: 1% 2% 5% 5%;" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8uoJVLcbHJU?si=8IK2lsY00QpPMQTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Hi! I am Senior Researcher in Computational Social Science based in Cologne and Vienna.
+In my current role at [GESIS -- Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home), I work with the Digital Society Observatory on collecting and analyzing data from social media platforms.
+Beyond that, I mostly research how political communication goes wrong online; currently in projects on misinformation and affective publics. 
 
 <br>
+
+
+### Upcoming presentations 
+
+May 21-22, 2026, Vienna -- Computational Social Science: Democracy at Risk? Societal Challenges, Data, and Research Infrastructures in the Age of CSS. Lightning talk and poster presentation of the paper *Quantifying the effects of misinformation on social media* (see [here](/publications/) for a short description of the paper).
+
+June 4-8, 2026, Cape Town -- 76th Annual ICA Conference. Presentation of paper *Anger and fear predict individual misinformation sharing but not collective patterns on Twitter* (description [here](/publications/)), presented by my co-author Josephine Lukito (**thank you, Jo!!**).
+
+September 8-11, 2026, Brno -- 11th European Communication Conference (ECREA). Presentation of the paper *Anger and fear predict individual misinformation sharing but not collective patterns on Twitter* (description [here](/publications/)).  
