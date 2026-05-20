@@ -19,14 +19,15 @@ Invited by Prof. David Garcia and the [Social Data Science Lab](https://www.polv
 ## University of Vienna
 **2024 & 2025 Substitute lecturer, VERQUAN Vertiefende quantitative Methoden** (in German)
 
-Covered one-way and factorial ANOVA in R, including hands-on analysis.
+I covered one-way and factorial ANOVA in R, including hands-on analysis.
 
-**2024** Guest lecturer, [Misinformation in den Sozialen Medien](https://julaluehring.github.io/misinformation-in-den-sozialen-medien/#/title-slide) (CODE VO SOME B; in German).
+
+**2024 Guest lecturer, [Misinformation in den Sozialen Medien](https://julaluehring.github.io/misinformation-in-den-sozialen-medien/#/title-slide)** (CODE VO SOME B; in German)
 
 Invited by Prof. Annie Waldherr to give a guest lecture in her course [Theorie und Praxis von Social Media-Kommunikation](https://ufind.univie.ac.at/de/course.html?lv=220020&semester=2025S), I provided an overview of the research on misinformation on social media, covering definitions, prevalance, and current debates in the field. 
 
 ## VHS Urania, Vienna
-**2024** Guest lecturer, [Misinformation und Fake News in Sozialen Medien](https://julaluehring.github.io/vhs-misinformation/#/misinformation-und-fake-news-in-den-sozialen-medien) (in German)
+**2024 Guest lecturer, [Misinformation und Fake News in Sozialen Medien](https://julaluehring.github.io/vhs-misinformation/#/misinformation-und-fake-news-in-den-sozialen-medien)** (in German)
 
 As part of the series on digital democracy, the VHS Vienna (an adult education center with courses on many different topics), asked me to hold a lecture on misinformation on social media. 
 This was a more general public, with many pensioners and some of my friends (who finally understood what I am actually doing), and I also got critical questions from people who seemed to distrust the mainstream media.  
