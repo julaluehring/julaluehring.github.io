@@ -4,8 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Teaching Experience
-
 ## University of Graz
 **2026** Lecturer, Micro Degree AI and Society. In this seminar, students develop and work on their own projects. Find my slides for each session in [this Github repository](https://github.com/julaluehring/micro_degree_ki_sose26)
 

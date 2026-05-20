@@ -24,8 +24,70 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          <button
+            id="theme-toggle"
+            class="theme-toggle"
+            type="button"
+            aria-label="Toggle dark mode"
+            title="Toggle dark mode"
+          >
+            <span aria-hidden="true">Theme</span>
+          </button>
         </div>
       </nav>
+
+      <script>
+        (function() {
+          var storageKey = "theme-preference";
+          var root = document.documentElement;
+          var button = document.getElementById("theme-toggle");
+
+          if (!button) {
+            return;
+          }
+
+          function getTheme() {
+            return root.getAttribute("data-theme") || "system";
+          }
+
+          function applyTheme(theme) {
+            if (theme === "light" || theme === "dark") {
+              root.setAttribute("data-theme", theme);
+              root.style.colorScheme = theme;
+            } else {
+              root.removeAttribute("data-theme");
+              root.style.colorScheme = "light dark";
+            }
+          }
+
+          function saveTheme(theme) {
+            try {
+              if (theme === "system") {
+                localStorage.removeItem(storageKey);
+              } else {
+                localStorage.setItem(storageKey, theme);
+              }
+            } catch (e) {
+              // Ignore storage errors (private mode / disabled storage)
+            }
+          }
+
+          function updateButtonLabel(theme) {
+            button.textContent = theme === "dark" ? "Light" : "Dark";
+            button.setAttribute("aria-label", "Switch to " + (theme === "dark" ? "light" : "dark") + " mode");
+            button.setAttribute("title", "Switch to " + (theme === "dark" ? "light" : "dark") + " mode");
+          }
+
+          button.addEventListener("click", function() {
+            var nextTheme = getTheme() === "dark" ? "light" : "dark";
+            applyTheme(nextTheme);
+            saveTheme(nextTheme);
+            updateButtonLabel(nextTheme);
+          });
+
+          updateButtonLabel(getTheme());
+        })();
+      </script>
     {%- endif -%}
   </div>
 </header>

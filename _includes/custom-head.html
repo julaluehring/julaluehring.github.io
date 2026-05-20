@@ -4,3 +4,26 @@
   1. Head over to https://realfavicongenerator.net/ to add your own favicons.
   2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
 {% endcomment %}
+
+<meta name="color-scheme" content="light dark">
+<script>
+  (function() {
+    var storageKey = "theme-preference";
+    var root = document.documentElement;
+    var savedTheme = null;
+
+    try {
+      savedTheme = localStorage.getItem(storageKey);
+    } catch (e) {
+      savedTheme = null;
+    }
+
+    if (savedTheme === "light" || savedTheme === "dark") {
+      root.setAttribute("data-theme", savedTheme);
+      root.style.colorScheme = savedTheme;
+    } else {
+      root.removeAttribute("data-theme");
+      root.style.colorScheme = "light dark";
+    }
+  })();
+</script>

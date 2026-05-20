@@ -7,16 +7,39 @@
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="Jula Lühring" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/404.html" />
-<meta property="og:url" content="http://localhost:4000/404.html" />
+<link rel="canonical" href="http://localhost:4001/404.html" />
+<meta property="og:url" content="http://localhost:4001/404.html" />
 <meta property="og:site_name" content="Jula Lühring" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Jula Lühring" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","headline":"Jula Lühring","url":"http://localhost:4000/404.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","headline":"Jula Lühring","url":"http://localhost:4001/404.html"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Jula Lühring" />
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4001/feed.xml" title="Jula Lühring" />
+
+<meta name="color-scheme" content="light dark">
+<script>
+  (function() {
+    var storageKey = "theme-preference";
+    var root = document.documentElement;
+    var savedTheme = null;
+
+    try {
+      savedTheme = localStorage.getItem(storageKey);
+    } catch (e) {
+      savedTheme = null;
+    }
+
+    if (savedTheme === "light" || savedTheme === "dark") {
+      root.setAttribute("data-theme", savedTheme);
+      root.style.colorScheme = savedTheme;
+    } else {
+      root.removeAttribute("data-theme");
+      root.style.colorScheme = "light dark";
+    }
+  })();
+</script>
 </head>
 <body><header class="site-header">
 
@@ -30,8 +53,70 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/press/">Press</a><a class="page-link" href="/publications/">Publications</a><a class="page-link" href="/talks/">Talks</a><a class="page-link" href="/teaching/">Teaching</a></div>
-      </nav></div>
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/press/">Press</a><a class="page-link" href="/publications/">Publications</a><a class="page-link" href="/talks/">Talks</a><a class="page-link" href="/teaching/">Teaching</a><button
+            id="theme-toggle"
+            class="theme-toggle"
+            type="button"
+            aria-label="Toggle dark mode"
+            title="Toggle dark mode"
+          >
+            <span aria-hidden="true">Theme</span>
+          </button>
+        </div>
+      </nav>
+
+      <script>
+        (function() {
+          var storageKey = "theme-preference";
+          var root = document.documentElement;
+          var button = document.getElementById("theme-toggle");
+
+          if (!button) {
+            return;
+          }
+
+          function getTheme() {
+            return root.getAttribute("data-theme") || "system";
+          }
+
+          function applyTheme(theme) {
+            if (theme === "light" || theme === "dark") {
+              root.setAttribute("data-theme", theme);
+              root.style.colorScheme = theme;
+            } else {
+              root.removeAttribute("data-theme");
+              root.style.colorScheme = "light dark";
+            }
+          }
+
+          function saveTheme(theme) {
+            try {
+              if (theme === "system") {
+                localStorage.removeItem(storageKey);
+              } else {
+                localStorage.setItem(storageKey, theme);
+              }
+            } catch (e) {
+              // Ignore storage errors (private mode / disabled storage)
+            }
+          }
+
+          function updateButtonLabel(theme) {
+            button.textContent = theme === "dark" ? "Light" : "Dark";
+            button.setAttribute("aria-label", "Switch to " + (theme === "dark" ? "light" : "dark") + " mode");
+            button.setAttribute("title", "Switch to " + (theme === "dark" ? "light" : "dark") + " mode");
+          }
+
+          button.addEventListener("click", function() {
+            var nextTheme = getTheme() === "dark" ? "light" : "dark";
+            applyTheme(nextTheme);
+            saveTheme(nextTheme);
+            updateButtonLabel(nextTheme);
+          });
+
+          updateButtonLabel(getTheme());
+        })();
+      </script></div>
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">

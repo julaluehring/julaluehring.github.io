@@ -1,2 +1,78 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.site-nav .trigger {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+.site-nav .theme-toggle {
+	border: 1px solid var(--minima-border-color-01);
+	background: var(--minima-background-color);
+	color: var(--minima-text-color);
+	border-radius: 999px;
+	font-size: 0.8rem;
+	line-height: 1;
+	padding: 0.35rem 0.7rem;
+	margin-left: 0.2rem;
+	margin-right: 0.2rem;
+	cursor: pointer;
+	transition: background-color 120ms ease, color 120ms ease, border-color 120ms ease;
+}
+
+.site-nav .theme-toggle:hover,
+.site-nav .theme-toggle:focus-visible {
+	border-color: var(--minima-link-base-color);
+	color: var(--minima-link-base-color);
+	outline: none;
+}
+
+html[data-theme="light"] {
+	--minima-brand-color: #828282;
+	--minima-brand-color-light: #e8e8e8;
+	--minima-brand-color-dark: #424242;
+	--minima-site-title-color: #424242;
+	--minima-text-color: #111111;
+	--minima-background-color: #fdfdfd;
+	--minima-code-background-color: #eeeeff;
+	--minima-link-base-color: #2a7ae2;
+	--minima-link-visited-color: #1756a9;
+	--minima-link-hover-color: #111111;
+	--minima-border-color-01: #e8e8e8;
+	--minima-border-color-02: #e0e0e0;
+	--minima-border-color-03: #424242;
+	--minima-table-text-color: #424242;
+	--minima-table-zebra-color: #f7f7f7;
+	--minima-table-header-bg-color: #f0f0f0;
+	--minima-table-header-border: #d9d9d9;
+	--minima-table-border-color: #e8e8e8;
+}
+
+html[data-theme="dark"] {
+	--minima-brand-color: #999999;
+	--minima-brand-color-light: #a6a6a6;
+	--minima-brand-color-dark: #404040;
+	--minima-site-title-color: #a6a6a6;
+	--minima-text-color: #bbbbbb;
+	--minima-background-color: #181818;
+	--minima-code-background-color: #212121;
+	--minima-link-base-color: #79b8ff;
+	--minima-link-visited-color: #79b8ff;
+	--minima-link-hover-color: #ffffff;
+	--minima-border-color-01: #4d4d4d;
+	--minima-border-color-02: #626262;
+	--minima-border-color-03: #b3b3b3;
+	--minima-table-text-color: #e6e6e6;
+	--minima-table-zebra-color: #2f2f2f;
+	--minima-table-header-bg-color: #343434;
+	--minima-table-header-border: #4a4a4a;
+	--minima-table-border-color: #4d4d4d;
+}
+
+@media screen and (max-width: 600px) {
+	.site-nav .theme-toggle {
+		display: block;
+		margin: 0.5rem 0 0.25rem;
+	}
+}
