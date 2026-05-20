@@ -4,14 +4,12 @@ title: Talks
 permalink: /talks/
 ---
 
-Here's a selections of presentations I recently gave at conferences and workshops. 
+Here's a selection of presentations I recently gave at conferences and workshops. 
 Follow the links to access the slides and additional material.
 
 Lühring, J., Garcia, D., Waldherr, A., Lasser, J., Shetty, A., & Metzler, H. (2025, June). [Emotions & misinformation: A causal analysis of Twitter news discussions]((https://julaluehring.github.io/2025-ica-matching/#/emotions-misinformation-a-causal-analysis-of-twitter-news-discussions)). *75th Annual ICA Conference (Denver, USA)*. 
 
 Lühring, J., Metzler, H., Lazzaroni, R., Shetty, A., & Lasser, J. (2025, June). [Best practices for source-based research on news trustworthiness](https://julaluehring.github.io/2025-ica-newsguard/#/best-practices-for-source-based-research-on-news-trustworthiness). *75th Annual ICA Conference (Denver, USA)*. 
-
-Luehring, J. (2025, April). [Misinformation and Emotions Online](https://julaluehring.github.io/2025-emomis-konstanz). *Invited talk at the Social Data Science Colloquium (University of Konstanz, Germany).* 
 
 Luehring, J. (2024, July). Emotional misinformation diffusion: [Mapping socio-affective dynamics in the digital information ecosystem](https://julaluehring.github.io/emotional-speech-workshop/#/title-slide). *Invited talk at the Emotional Speech Workshop (Ruhr-Universität Bochum, Germany).* 
 

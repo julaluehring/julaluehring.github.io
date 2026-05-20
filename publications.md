@@ -7,7 +7,7 @@ permalink: /publications/
 Here's an overview of my publications and working papers. Follow the links to find more information about the papers and the journals or browse my [Google Scholar](https://scholar.google.com/citations?user=9FQdKwwAAAAJ&hl=de&oi=ao). 
 
 
-## Pre-prints & manuscripts under preparation 
+## Manuscripts under preparation 
 (*what I have been thinking about more recently*)
 
 **Lühring, J., Garcia, D., Waldherr, A., Lasser, J., Shetty, A., & May, H. (2025).[ Quantifying the causal effects of misinformation on emotions and engagement on social media](https://doi.org/10.31234/osf.io/cemw7_v1).** 
