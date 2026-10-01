@@ -17,6 +17,8 @@ Beyond that, I mostly research how political communication goes wrong online; cu
 
 ### Upcoming/recent presentations 
 
+October 1-2, 2026, Cologne -- DGPuK Methodentagung. Presentation of the paper *Quantifying the effects of misinformation* (Slides can be found [here](https://julaluehring.github.io/2026-matching-dgpuk)). 
+
 September 8-11, 2026, Brno -- 11th European Communication Conference (ECREA). Presentation of the paper *Anger and fear predict individual misinformation sharing but not collective patterns on Twitter* (Slides can be found [at this link](https://julaluehring.github.io/emotions-misinformation-austria-ecrea26) and a short description [at Publications/](/publications/)).  
 
 June 4-8, 2026, Cape Town -- 76th Annual ICA Conference. Presentation of paper *Anger and fear predict individual misinformation sharing but not collective patterns on Twitter* (description [here](/publications/)), presented by my co-author Josephine Lukito (**thank you, Jo!!**). Find slides [here](https://julaluehring.github.io/emotions-misinformation-austria-ica26/#/title-slide).
